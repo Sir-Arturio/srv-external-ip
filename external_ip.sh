@@ -1,1 +1,1 @@
-wget -q http://www.showmyip.com/simple/ -O /var/tmp/external_ip
+wget -q http://www.showmyip.com/simple/ -O /tmp/external_ip
