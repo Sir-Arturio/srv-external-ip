@@ -1,1 +1,1 @@
-wget -q http://whatismyip.org/ -O /tmp/external_ip
+wget -q http://my-ip.heroku.com/ -O /tmp/external_ip
