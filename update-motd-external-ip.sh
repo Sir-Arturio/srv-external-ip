@@ -1,3 +1,4 @@
+#!/bin/sh
 ip_file='/tmp/external_ip'
 if [ -f $ip_file ]
 then
